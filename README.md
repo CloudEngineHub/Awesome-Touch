@@ -532,6 +532,8 @@
 
 - [OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation](https://arxiv.org/pdf/2603.19201), Zheng et al., arxiv 2026
 
+- [VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/pdf/2603.23481), Yuan et al., arxiv 2026
+
 
 
 ### Dexterous Manipulation
