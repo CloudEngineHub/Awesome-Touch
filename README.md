@@ -383,7 +383,7 @@
 
 - [Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation](https://arxiv.org/pdf/2512.09851), Li et al., arxiv 2025
 
-- [LightTact: A Visual–Tactile Fingertip Sensor for Deformation-Independent Contact Sensing](https://arxiv.org/pdf/2512.09851), Lin et al., arxiv 2025
+- [LightTact: A Visual–Tactile Fingertip Sensor for Deformation-Independent Contact Sensing](https://arxiv.org/pdf/2512.09851), Lin et al., RSS 2026
 
 - [Biomimetic multimodal tactile sensing enables human-like robotic perception](https://www.nature.com/articles/s44460-025-00006-y), Li et al., nature sensors 2026
 
@@ -394,6 +394,8 @@
 - [FruitTouch: A Perceptive Gripper for Gentle and Scalable Fruit Harvesting](https://arxiv.org/pdf/2602.18991), Zhang et al., arxiv 2026
 
 - [FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation](https://arxiv.org/pdf/2604.20689), Xu et al., arxiv 2026
+
+- [TransTac: Visuo-Tactile Modality Transition via Ultraviolet-Encoded Transparent Elastomers](https://arxiv.org/pdf/2606.04477), Yang et al., arxiv 2026
 
 
 
@@ -549,6 +551,8 @@
 - [VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/pdf/2603.23481), Yuan et al., arxiv 2026
 
 - [VitaTouch: Property-Aware Vision–Tactile–Language Model for Robotic Quality Inspection in Manufacturing](https://arxiv.org/pdf/2604.03322), Zong et al., arxiv 2026
+
+- [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/pdf/2606.04825), Alian et al., arxiv 2026
 
 
 
