@@ -554,6 +554,8 @@
 
 - [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/pdf/2606.04825), Alian et al., arxiv 2026
 
+- [FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/pdf/2606.13102), Yuan et al., arxiv 2026
+
 
 
 ### Dexterous Manipulation
