@@ -8,7 +8,7 @@
   - [Non-Vision-Based](#non-vision-based)
 - [Robotics Applications](#robotics-applications)
   - [Data Collection](#data-collection)
-  - [LLM/VLM/VLA/WM](#llmvlmvlawm)
+  - [VLA/WM/LLM/VLM](#vlawmllmvlm)
   - [Dexterous Manipulation](#dexterous-manipulation)
   - [Representation Learnig](#representation-learning)
   - [Manipulation/Grasping](#manipulationgrasping)
