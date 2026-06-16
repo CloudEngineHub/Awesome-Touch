@@ -511,11 +511,13 @@
 
 - [TAMEn: Tactile-Aware Manipulation Engine  for Closed-Loop Data Collection in Contact-Rich Tasks](https://arxiv.org/pdf/2604.07335), Wu et al., arxiv 2026
 
-- [TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video](https://arxiv.org/pdf/2605.13083),  Zhou et al., arxiv 2026
+- [TouchAnything: A Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video](https://arxiv.org/pdf/2605.13083), Zhou et al., arxiv 2026
+
+- [ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture](https://arxiv.org/abs/2606.16370), Lin et al., arxiv 2026
 
 
 
-### LLM/VLM/VLA/WM
+### VLA/WM/LLM/VLM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
 - [Binding Touch to Everything: Learning Unified Multimodal Tactile Representations](https://arxiv.org/abs/2401.18084), Yang et al., CVPR 2024
@@ -555,6 +557,8 @@
 - [HapTile: A Haptic-Informed Vision-Tactile-Language-Action Dataset for Contact-Rich Imitation Learning](https://arxiv.org/pdf/2606.04825), Alian et al., arxiv 2026
 
 - [FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/pdf/2606.13102), Yuan et al., arxiv 2026
+
+- [T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055), Niu et al., arxiv 2026
 
 
 
