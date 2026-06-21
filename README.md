@@ -1162,6 +1162,8 @@
 - [3D Cal: An Open-Source Software Library for Depth Reconstruction on Vision-Based Tactile Sensors](https://ieeexplore.ieee.org/abstract/document/11433757?casa_token=dh2ci2M60PQAAAAA:dT9OcxehJ6z3W62zGQbFnLnwuaikEojQw2_P1xJVwPaIMpMsrzqp8erVEA8HDUcrJlCzzPDd), Kota et al., RAL 2026
 
 
+
+- [TLabel: Sensor-Agnostic Tactile Data Labeling Toolkit](https://github.com/liesliy/tlabel)
 ## Review
 - [Artificial Sense of Slip—A Review](https://ieeexplore.ieee.org/document/6479676), Francomano et al., IEEE Sensors 2013
 
@@ -1294,6 +1296,7 @@
 - [TVL](https://tactile-vlm.github.io/)
 - [Touch100K](https://cocacola-lab.github.io/Touch100k/)
 
+- [TLabel-Bench: Cross-Sensor Tactile Annotation Benchmark](https://github.com/liesliy/tlabel-bench)
 ### Algorithms
 - [ShapeMap 3-D](https://github.com/rpl-cmu/shape-map-3D)
 - [Tactile SLAM](https://github.com/suddhu/gpis-touch-public)
