@@ -1148,8 +1148,11 @@
 
 - [Tacmap: Bridging the Tactile Sim-to-Real Gap via Geometry-Consistent Penetration Depth Map](https://arxiv.org/pdf/2602.21625v1), Su et al., arxiv 2026
 
-
 - [SPLIT: Separating Physical-Contact via Latent Arithmetic in Image-Based Tactile Sensors](https://arxiv.org/abs/2604.24449), Zai El Amri et al., Elsevier Robotics and Autonomous Systems Journal 2026
+
+- [TaCauchy: An Extensible FEM Framework for Vision-Based Tactile Simulation](https://arxiv.org/pdf/2606.20426), Zhao et al., arxiv 2026
+
+
 
 
 ### Library
