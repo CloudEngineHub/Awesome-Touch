@@ -353,6 +353,8 @@
 
 - [High- resolution real- time mechanochromictactile sensors](https://www.science.org/doi/10.1126/sciadv.aee5236), Sasso et al., Science Advances 2026
 
+- [ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows](https://ieeexplore.ieee.org/document/11128441), Vitrani et al., ICRA 2026
+
 
 <!---
 - [](), xxx et al., yyy 2023
