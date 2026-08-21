@@ -521,6 +521,8 @@
 
 - [ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture](https://arxiv.org/abs/2606.16370), Lin et al., arxiv 2026
 
+- [ViHaTeleop: A Low-Cost, Lightweight Visual-Haptic Teleoperation System for Dexterous Manipulation Learning](https://arxiv.org/pdf/2608.16572), Zhu et al., arxiv 2026
+
 
 
 ### VLA/WM/LLM/VLM
@@ -567,6 +569,8 @@
 - [FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation](https://arxiv.org/pdf/2606.13102), Yuan et al., arxiv 2026
 
 - [T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055), Niu et al., arxiv 2026
+
+- [ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation](https://arxiv.org/pdf/2608.15816), Wang et al., arxiv 2026
 
 
 
@@ -1215,6 +1219,10 @@
 - [Co-evolution of Vision-Based Tactile Sensors: From structure-dominated design to task-based system integration—A Review](https://ieeexplore.ieee.org/document/11498615), Wang et al., IEEE Sensors 2026
 
 - [Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms](https://www.researchgate.net/publication/403306640_Tactile-based_Multimodal_Fusion_in_Embodied_Intelligence_A_Survey_of_Vision_Language_and_Contact-Driven_Paradigms), Cao et al., arxiv 2026
+
+- [Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation](https://arxiv.org/pdf/2608.15490), Zhou et al., arxiv 2026
+
+- [Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms](https://arxiv.org/pdf/2605.17336), Cao et al., arxiv 2026
 
 
 ## Thesis
