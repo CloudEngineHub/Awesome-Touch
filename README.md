@@ -365,6 +365,8 @@
 - [GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution](https://arxiv.org/abs/2609.32471), Ma et al., arxiv 2026
 
 
+- [GelSlim 5.0: Unifying Vision and Touch with a Single Fingertip Camera](https://arxiv.org/abs/2610.31334), Wang et al., arxiv 2026
+
 ### Visual-Tactile
 
 - [Combining Finger Vision and Optical Tactile Sensing: Reducing and Handling Errors While Cutting Vegetables](https://ieeexplore.ieee.org/abstract/document/7803400), Yamaguchi et al., Humanoids 2016
@@ -470,6 +472,10 @@
 
 - [Spontaneous Interfacial Redox Enables Spatiotemporally Registered Visual-Tactile Interfaces](https://doi.org/10.1002/adfm.78819), Zhang et al., Advanced Functional Materials 2026
 
+
+- [VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing](https://arxiv.org/abs/2610.31472), Hou et al., arxiv 2026 ([project](https://jiannnh.github.io/VecTile/); designs and code pending)
+
+- [OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing](https://arxiv.org/abs/2610.31661), Slepyan et al., arxiv 2026 ([project](https://opentac.github.io/); [repository](https://github.com/opentac/opentac))
 
 ## Robotics Applications
 <!---
@@ -642,6 +648,18 @@
 
 
 
+- [DEFT-VLA: Stage-Localized Force Specialization for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2610.14854), Huang et al., arxiv 2026
+
+- [ACTS: Learning Visuo-Tactile World Models from Human Physical Interaction](https://arxiv.org/abs/2610.24285), Ma et al., arxiv 2026 ([project](https://acts-anon.github.io/); code and dataset pending)
+
+- [FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation](https://arxiv.org/abs/2610.25981), He et al., CoRL 2026
+
+- [GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2610.26846), Yang et al., arxiv 2026 ([project](https://tactalent.github.io/))
+
+- [Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613), Wang et al., arxiv 2026 ([project](https://no-518.github.io/tactile-eta/); [repository](https://github.com/No-518/Tactile-ETA))
+
+- [Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning](https://arxiv.org/abs/2610.28613), Xing et al., arxiv 2026 ([project](https://zebinx.github.io/PhysCanvas_HomePage/); code and models pending)
+
 ### Dexterous Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
 
@@ -686,6 +704,10 @@
 - [Temporal Visuo-Tactile Learning for Dexterous Grasp Stability](https://arxiv.org/abs/2610.10283), Nakahara et al., arxiv 2026
 
 
+
+- [Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation](https://arxiv.org/abs/2610.17161), Yuan et al., arxiv 2026 ([project](https://yingyuan0414.github.io/fomo-dex/); code pending)
+
+- [Tactile In-Hand Object Rotation: A Comparative Study of Hand Morphology in Simulation and Hardware](https://arxiv.org/abs/2610.26759), He et al., arxiv 2026
 
 ### Representation Learning
 - [Touch and Go: Learning from Human-Collected Vision and Touch](https://openreview.net/forum?id=ZZ3FeSSPPblo), Yang et al., NeurIPS 2022
@@ -739,6 +761,12 @@
 - [A Minimal Optical-Flow Representation for Vision-Based Tactile Rotation Classification in Robotic Manipulation Across Gravity Domains](https://arxiv.org/abs/2610.12073), Martinez-Bernal et al., arxiv 2026
 
 
+
+- [Interaction Latents as Actions for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18855), Zheng et al., arxiv 2026 ([project](https://mrsecant.github.io/ILA/))
+
+- [Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data](https://arxiv.org/abs/2610.27995), Yu et al., arxiv 2026
+
+- [Touch-JEPA: Tactile Representation Learning from Hand-Object Video with Limited Tactile Supervision](https://arxiv.org/abs/2610.28519), Kweon et al., arxiv 2026 ([project](https://touch-jepa.github.io/); code not verified)
 
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
@@ -964,6 +992,10 @@
 
 - [PACE: Temporal-Role Tactile Conditioning for Chunk-Based Insertion Policies](https://arxiv.org/abs/2610.16308), Chen et al., CoRL 2026 ([project](https://pace-insertion.github.io/); code, models and data pending)
 
+- [Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration](https://arxiv.org/abs/2610.18848), Nie et al., arxiv 2026 ([project](https://ctp-robotics.github.io/project_page/))
+
+- [ContactBench 1.0: A Benchmark for Everyday Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2610.24512), Xiang et al., arxiv 2026 ([project](https://jingyi-xiang.github.io/contactbench/); code and assets pending)
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -1183,6 +1215,12 @@
 - [EgoPhys: Estimating Peak Contact Force and Mechanical Work from Egocentric Manipulation Video](https://arxiv.org/abs/2610.11347), Dong et al., arxiv 2026
 
 
+- [FEM-Validated Real-Time Modelling of Soft Tactile Deformation](https://arxiv.org/abs/2610.16667), Terrile et al., arxiv 2026
+
+- [Ego2Contact: Predicting Touch from Egocentric Human Video for Contact-Rich Robot Manipulation](https://arxiv.org/abs/2610.22932), Yang et al., arxiv 2026
+
+- [DenseHap: Dense Hand Haptic Estimation from Monocular Images](https://arxiv.org/abs/2610.26583), Xue et al., arxiv 2026 (code and models promised upon acceptance)
+
 ### Tactile Policies for Legged Robots
 - [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175), Lin et al., CoRL 2025
 
@@ -1346,6 +1384,8 @@
 
 - [Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms](https://arxiv.org/pdf/2605.17336), Cao et al., arxiv 2026
 
+
+- [Tactile-Based Robotic Manipulation: From Mechanics-Driven to Data-Driven Perspectives](https://arxiv.org/abs/2610.30438), Xiang et al., Annual Review of Control, Robotics, and Autonomous Systems 2027 ([published version](https://doi.org/10.1146/annurev-control-032125-030330))
 
 ## Thesis
 ### Master
