@@ -407,6 +407,8 @@
 
 - [TransTac: Visuo-Tactile Modality Transition via Ultraviolet-Encoded Transparent Elastomers](https://arxiv.org/pdf/2606.04477), Yang et al., arxiv 2026
 
+- [Exploring Proximity and Tactile Sensing for Robotic Manipulation](https://arxiv.org/abs/2611.03489), Chang et al., arxiv 2026 (ToFTouch; code and data not verified)
+
 
 
 ### Non-Vision-Based
@@ -476,6 +478,8 @@
 - [VecTile: A Low-Cost Flexible Tactile Array for 3-DoF Force Sensing](https://arxiv.org/abs/2610.31472), Hou et al., arxiv 2026 ([project](https://jiannnh.github.io/VecTile/); designs and code pending)
 
 - [OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing](https://arxiv.org/abs/2610.31661), Slepyan et al., arxiv 2026 ([project](https://opentac.github.io/); [repository](https://github.com/opentac/opentac))
+
+- [LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction](https://arxiv.org/abs/2611.05936), Wu et al., arxiv 2026 (code and data not verified)
 
 ## Robotics Applications
 <!---
@@ -582,6 +586,8 @@
 
 - [Kinematic-Tactile Aligned Dexterous Retargeting with Contact Wrench Space Alignment](https://arxiv.org/abs/2610.39582), He et al., arxiv 2026
 
+- [Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds](https://arxiv.org/abs/2610.41028), Xu et al., arxiv 2026 ([project](https://nus-lins-lab.github.io/CIMIWeb/); [code](https://github.com/ariszxxu/CIMI); raw data not released)
+
 ### VLA/WM/LLM/VLM
 - [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://arxiv.org/abs/2402.13232), Fu et al., arxiv 2024
 
@@ -677,6 +683,8 @@
 - [Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation](https://arxiv.org/abs/2610.26854), Liu et al., arxiv 2026 ([project](https://nvidia-isaac.github.io/video_to_data/physicalword/); code pending)
 
 - [CW-WAM: A Structured Contact-Wrench World Action Model for Force-Sensitive Manipulation](https://arxiv.org/abs/2610.30117), Ding et al., arxiv 2026 ([project](https://cw-wam-project.github.io/); code and data not verified)
+
+- [$TF^2$-Steering: Action Refinement with Tactile Forecasts and Feedback via Velocity-Field Steering](https://arxiv.org/abs/2611.01483), Chen et al., arxiv 2026 ([project](https://yiming-cc.github.io/tf2-steering/); code and data not verified)
 
 ### Dexterous Manipulation
 - [All the Feels: A dexterous hand with large-area tactile sensing](https://arxiv.org/pdf/2210.15658), Bhirangi et al., arxiv 2022
@@ -788,6 +796,12 @@
 
 
 - [Language-Grounded Force/Torque Pretraining for Extrinsic Contact Perception](https://arxiv.org/abs/2610.39314), Takahashi et al., arxiv 2026
+
+- [Evaluating Tactile Foundation Models for End-to-End Imitation Learning in Contact-Rich Manipulation](https://arxiv.org/abs/2611.00957), Murooka et al., SII 2027 ([project](https://mmurooka.github.io/tfm4il-project-page/); [code](https://github.com/isri-aist/TacLatentIL))
+
+- [SomaAlign: Reliability-Aware Multimodal Representation Learning for Soft Robotic Grasping](https://arxiv.org/abs/2611.02794), Wang et al., arxiv 2026 (code and data not verified)
+
+- [Which Physical Tactile Cues Matter for Contact-Rich Imitation Learning? A Controlled Real-Robot Study](https://arxiv.org/abs/2611.06673), Qin et al., ROBIO 2026 ([project](https://xuhaoqin02.github.io/lerobot-tactile/); implementation code not verified)
 
 ### Manipulation/Grasping
 - [Localization and manipulation of small parts using GelSight tactile sensing](https://ieeexplore.ieee.org/abstract/document/6943123), Li et al., IROS 2014
@@ -1022,6 +1036,10 @@
 
 - [SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing](https://arxiv.org/abs/2610.40646), Zhang et al., arxiv 2026 ([project](https://personalrobotics.github.io/SwapBot))
 
+- [Visuo-tactile Diffusion Policy for Robotic Manipulation with Auxiliary Tactile Dynamics Prediction](https://arxiv.org/abs/2611.02677), Ouyang et al., ICCSSE 2026 (code and data not verified)
+
+- [Adaptive Hybrid Force-Vision Control with EMG-Derived References for Deformable Bottle Manipulation](https://arxiv.org/abs/2611.07235), Lee et al., arxiv 2026 (code and data not verified)
+
 ### Classification/Recognition
 - [Majority Voting: Material Classification by Tactile Sensing Using Surface Texture](https://ieeexplore.ieee.org/abstract/document/5756488), Jamali et al., TRO 2011
 
@@ -1249,6 +1267,8 @@
 
 
 - [TactoHand: Learning Geometry-Based Dense Hand-Surface Interaction Fields from Video](https://arxiv.org/abs/2610.39585), Xi et al., arxiv 2026 (code pending)
+
+- [HOPE: Hand-Object Pressure Estimation from Monocular Videos](https://arxiv.org/abs/2608.06192), Jeon et al., NeurIPS 2026 ([project](https://subin6.github.io/page-hope/); [code and checkpoint](https://github.com/subin6/hope))
 
 ### Tactile Policies for Legged Robots
 - [LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing](https://arxiv.org/abs/2505.23175), Lin et al., CoRL 2025
